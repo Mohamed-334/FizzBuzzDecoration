@@ -13,20 +13,29 @@ namespace Akvelon_Coding_First_task
             }
             else
             {
-                var count = FizzBuzzDetector.getOverlappings(ref msg);
-                Console.WriteLine(msg);
-                Console.WriteLine(count);
+                var data = FizzBuzzDetector.getOverlappings(msg);
+                Console.WriteLine($"Decorated Message {data.DecoratedMessage}");
+                Console.WriteLine($"Count {data.DecoratedWordsCount}");
                 
             }
 
         }
+    }
+    /// <summary>
+    ///  Hold Data about the Decoration Like the Count , Origin & Decorated Message
+    /// </summary>
+    public class FizzBuzzData
+    {
+        public string OriginMessage { get; set; }
+        public string DecoratedMessage { get; set; }
+        public int DecoratedWordsCount { get; set; }
     }
     public class FizzBuzzDetector
     {
         // Private Field Hold the Count of Decorated Words
         private int _fizzBuzzDetectorCount = 0;
         // Private Field Hold the New Or the Decorated String
-        private string DecoratedMessage;
+        private string _decoratedMessage;
 
         /// <summary>
         ///     getOverlappings Method Used To Decorate Specific Message With this Constraint 
@@ -37,7 +46,7 @@ namespace Akvelon_Coding_First_task
         ///      Reference Parameter Used To Change the Message to the Decorated Message
         /// </param>
         /// <returns> Returns Count of the Decorated (Changed) Words</returns>
-        public int getOverlappings(ref string msg)
+        public FizzBuzzData getOverlappings( string msg)
         {
             var Words = msg.Split(" ");
             for (int i = 0; i < Words.Length ; i++)
@@ -75,12 +84,17 @@ namespace Akvelon_Coding_First_task
             // Generate the Decorated Message
             for (int i = 0; i < Words.Length; i++)
             {
-                DecoratedMessage += $"{Words[i]}";
+                _decoratedMessage += $"{Words[i]}";
                 if (i != Words.Length - 1)
-                    DecoratedMessage += " ";
+                    _decoratedMessage += " ";
             }
-            msg = DecoratedMessage;
-            return _fizzBuzzDetectorCount;
+            FizzBuzzData data = new()
+            {
+                DecoratedMessage = _decoratedMessage,
+                OriginMessage = msg,
+                DecoratedWordsCount = _fizzBuzzDetectorCount
+            };
+            return data;
         }
     }
 }
