@@ -7,7 +7,7 @@ namespace Akvelon_Coding_First_task
         {
             FizzBuzzDetector FizzBuzzDetector = new();
             string msg = Console.ReadLine();
-            if(msg == null || msg == "")
+            if(msg == null  || msg.Length < 7 || msg.Length>100)
             {
                 Console.WriteLine("Please Enter Valid Message");
             }
@@ -16,7 +16,7 @@ namespace Akvelon_Coding_First_task
                 var count = FizzBuzzDetector.getOverlappings(ref msg);
                 Console.WriteLine(msg);
                 Console.WriteLine(count);
-
+                
             }
 
         }
