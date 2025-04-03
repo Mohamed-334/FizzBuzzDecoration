@@ -12,3 +12,4 @@ D:\Programming section\Projects\C#\Akvelon Coding task\Akvelon Coding First task
 D:\Programming section\Projects\C#\Akvelon Coding task\Akvelon Coding First task\Akvelon Coding First task\obj\Debug\net8.0\Akvelon Coding First task.pdb
 D:\Programming section\Projects\C#\Akvelon Coding task\Akvelon Coding First task\Akvelon Coding First task\obj\Debug\net8.0\Akvelon Coding First task.genruntimeconfig.cache
 D:\Programming section\Projects\C#\Akvelon Coding task\Akvelon Coding First task\Akvelon Coding First task\obj\Debug\net8.0\ref\Akvelon Coding First task.dll
+D:\Programming section\Projects\C#\Akvelon Coding task\Akvelon Coding First task\Akvelon Coding First task\obj\Debug\net8.0\Akvelon Coding First task.sourcelink.json

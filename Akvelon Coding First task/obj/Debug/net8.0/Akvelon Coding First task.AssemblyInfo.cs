@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Akvelon Coding First task")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+394ebafa170160c9edc6ef73addab80b6898a6ca")]
 [assembly: System.Reflection.AssemblyProductAttribute("Akvelon Coding First task")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Akvelon Coding First task")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

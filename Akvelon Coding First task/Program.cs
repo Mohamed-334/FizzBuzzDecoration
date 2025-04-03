@@ -6,10 +6,18 @@ namespace Akvelon_Coding_First_task
         static void Main(string[] args)
         {
             FizzBuzzDetector FizzBuzzDetector = new();
-            string msg = "Mary had a little lamb Little lamb, little lamb Mary had a little lamb It's fleece was white as snow";
-            var count = FizzBuzzDetector.getOverlappings(ref msg);
-            Console.WriteLine(msg);
-            Console.WriteLine(count);
+            string msg = Console.ReadLine();
+            if(msg == null || msg == "")
+            {
+                Console.WriteLine("Please Enter Valid Message");
+            }
+            else
+            {
+                var count = FizzBuzzDetector.getOverlappings(ref msg);
+                Console.WriteLine(msg);
+                Console.WriteLine(count);
+
+            }
 
         }
     }
