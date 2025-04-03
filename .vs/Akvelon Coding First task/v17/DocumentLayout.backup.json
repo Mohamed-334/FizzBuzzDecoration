@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming section\\Projects\\C#\\Akvelon Coding task\\Akvelon Coding First task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57039E3B-C558-4D49-80D4-84DD1F3F44A5}|Akvelon Coding First task\\Akvelon Coding First task.csproj|d:\\programming section\\projects\\c#\\akvelon coding task\\akvelon coding first task\\akvelon coding first task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57039E3B-C558-4D49-80D4-84DD1F3F44A5}|Akvelon Coding First task\\Akvelon Coding First task.csproj|solutionrelative:akvelon coding first task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{6bf11835-8a31-496c-b01e-94f731afc7ce}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{6bf11835-8a31-496c-b01e-94f731afc7ce}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programming section\\Projects\\C#\\Akvelon Coding task\\Akvelon Coding First task\\Akvelon Coding First task\\Program.cs",
+              "RelativeDocumentMoniker": "Akvelon Coding First task\\Program.cs",
+              "ToolTip": "D:\\Programming section\\Projects\\C#\\Akvelon Coding task\\Akvelon Coding First task\\Akvelon Coding First task\\Program.cs",
+              "RelativeToolTip": "Akvelon Coding First task\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T14:45:40.848Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Akvelon Coding First task/1.0.0": {
+        "runtime": {
+          "Akvelon Coding First task.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Akvelon Coding First task/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

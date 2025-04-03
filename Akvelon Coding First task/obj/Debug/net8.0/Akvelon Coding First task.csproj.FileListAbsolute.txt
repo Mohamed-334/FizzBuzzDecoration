@@ -1,0 +1,14 @@
+D:\Programming section\Projects\C#\Akvelon Coding task\Akvelon Coding First task\Akvelon Coding First task\bin\Debug\net8.0\Akvelon Coding First task.exe
+D:\Programming section\Projects\C#\Akvelon Coding task\Akvelon Coding First task\Akvelon Coding First task\bin\Debug\net8.0\Akvelon Coding First task.deps.json
+D:\Programming section\Projects\C#\Akvelon Coding task\Akvelon Coding First task\Akvelon Coding First task\bin\Debug\net8.0\Akvelon Coding First task.runtimeconfig.json
+D:\Programming section\Projects\C#\Akvelon Coding task\Akvelon Coding First task\Akvelon Coding First task\bin\Debug\net8.0\Akvelon Coding First task.dll
+D:\Programming section\Projects\C#\Akvelon Coding task\Akvelon Coding First task\Akvelon Coding First task\bin\Debug\net8.0\Akvelon Coding First task.pdb
+D:\Programming section\Projects\C#\Akvelon Coding task\Akvelon Coding First task\Akvelon Coding First task\obj\Debug\net8.0\Akvelon Coding First task.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming section\Projects\C#\Akvelon Coding task\Akvelon Coding First task\Akvelon Coding First task\obj\Debug\net8.0\Akvelon Coding First task.AssemblyInfoInputs.cache
+D:\Programming section\Projects\C#\Akvelon Coding task\Akvelon Coding First task\Akvelon Coding First task\obj\Debug\net8.0\Akvelon Coding First task.AssemblyInfo.cs
+D:\Programming section\Projects\C#\Akvelon Coding task\Akvelon Coding First task\Akvelon Coding First task\obj\Debug\net8.0\Akvelon Coding First task.csproj.CoreCompileInputs.cache
+D:\Programming section\Projects\C#\Akvelon Coding task\Akvelon Coding First task\Akvelon Coding First task\obj\Debug\net8.0\Akvelon Coding First task.dll
+D:\Programming section\Projects\C#\Akvelon Coding task\Akvelon Coding First task\Akvelon Coding First task\obj\Debug\net8.0\refint\Akvelon Coding First task.dll
+D:\Programming section\Projects\C#\Akvelon Coding task\Akvelon Coding First task\Akvelon Coding First task\obj\Debug\net8.0\Akvelon Coding First task.pdb
+D:\Programming section\Projects\C#\Akvelon Coding task\Akvelon Coding First task\Akvelon Coding First task\obj\Debug\net8.0\Akvelon Coding First task.genruntimeconfig.cache
+D:\Programming section\Projects\C#\Akvelon Coding task\Akvelon Coding First task\Akvelon Coding First task\obj\Debug\net8.0\ref\Akvelon Coding First task.dll
