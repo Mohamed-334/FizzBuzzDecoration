@@ -1,0 +1,8 @@
+/workspace/NotificationService/obj/Debug/net8.0/NotificationService.csproj.AssemblyReference.cache
+/workspace/NotificationService/obj/Debug/net8.0/NotificationService.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/NotificationService/obj/Debug/net8.0/NotificationService.AssemblyInfoInputs.cache
+/workspace/NotificationService/obj/Debug/net8.0/NotificationService.AssemblyInfo.cs
+/workspace/NotificationService/obj/Debug/net8.0/NotificationService.csproj.CoreCompileInputs.cache
+/workspace/NotificationService/obj/Debug/net8.0/NotificationService.MvcApplicationPartsAssemblyInfo.cs
+/workspace/NotificationService/obj/Debug/net8.0/NotificationService.MvcApplicationPartsAssemblyInfo.cache
+/workspace/NotificationService/obj/Debug/net8.0/NotificationService.sourcelink.json
